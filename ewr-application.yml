@@ -13,4 +13,4 @@ feign.hystrix.enabled: true
 
 hazelcast.max.no.heartbeat.seconds: 6
 
-ewr-application.name: ewr-application
+map-application.name: map-application
